@@ -17,6 +17,11 @@ export default function Home() {
         <p class="my-4">
           Try updating this message in the
           <code class="mx-2">./routes/index.tsx</code> file, and refresh.
+          <video controls autoplay name="media">
+            <source src="https://n14.rcs.revma.com/cgvrymb6p98uv?rj-ttl=5&rj-tok=AAABikkIPREALfFF4_lf_ra1AA" type="audio/mpeg"></source>
+          </video>
+
+
         </p>
         <Counter count={count} />
       </div>
